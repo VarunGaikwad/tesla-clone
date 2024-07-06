@@ -9,41 +9,41 @@
 }
 
 .model-3 {
-  background-image: url("./model-3.jpg");
+  background-image: url("/model-3.jpg");
   @apply h-screen bg-cover bg-no-repeat bg-center;
 }
 
 .model-y {
-  background-image: url("./model-y.png");
+  background-image: url("/model-y.png");
   @apply h-screen bg-cover bg-no-repeat bg-center;
 }
 
 .model-s {
-  background-image: url("./model-s.jpg");
+  background-image: url("/model-s.jpg");
   @apply h-screen bg-cover bg-no-repeat bg-center text-white;
 }
 
 .model-x {
-  background-image: url("./model-x.jpg");
+  background-image: url("/model-x.jpg");
   @apply h-screen bg-cover bg-no-repeat bg-center;
 }
 
 .powerwall {
-  background-image: url("./powerwall.jpg");
+  background-image: url("/powerwall.jpg");
   @apply h-screen bg-cover bg-no-repeat bg-center;
 }
 
 .solar-panel {
-  background-image: url("./solar-panel.avif");
+  background-image: url("/solar-panel.avif");
   @apply h-screen bg-cover bg-no-repeat bg-center text-white;
 }
 
 .solar-roof {
-  background-image: url("./solar-roof.avif");
+  background-image: url("/solar-roof.avif");
   @apply h-screen bg-cover bg-no-repeat bg-center;
 }
 
 .accessories {
-  background-image: url("./accessories.jpg");
+  background-image: url("/accessories.jpg");
   @apply h-screen bg-cover bg-no-repeat bg-center;
 }
