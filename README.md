@@ -4,7 +4,7 @@ This project replicates the design and functionality of the Tesla website.
 
 ## Live Demo
 
-Check out the live demo [here](https://varungaikwad.github.io/tesla/).
+Check out the live demo [here](https://varungaikwad.github.io/tesla-clone/).
 
 ## Features
 
