@@ -47,3 +47,19 @@
   background-image: url("/accessories.jpg");
   @apply h-screen bg-cover bg-no-repeat bg-center;
 }
+
+::-webkit-scrollbar {
+  @apply w-1;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-rose-50;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-rose-400 rounded-3xl;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-rose-500;
+}
