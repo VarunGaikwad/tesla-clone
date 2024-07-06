@@ -1,3 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.model-3 {
+  background-image: url("./model-3.jpg");
+  @apply h-screen bg-cover bg-no-repeat bg-center;
+}
+
+.model-y {
+  background-image: url("./model-y.png");
+  @apply h-screen bg-cover bg-no-repeat bg-center;
+}
+
+.model-s {
+  background-image: url("./model-s.jpg");
+  @apply h-screen bg-cover bg-no-repeat bg-center text-white;
+}
+
+.model-x {
+  background-image: url("./model-x.jpg");
+  @apply h-screen bg-cover bg-no-repeat bg-center;
+}
+
+.powerwall {
+  background-image: url("./powerwall.jpg");
+  @apply h-screen bg-cover bg-no-repeat bg-center;
+}
+
+.solar-panel {
+  background-image: url("./solar-panel.avif");
+  @apply h-screen bg-cover bg-no-repeat bg-center text-white;
+}
+
+.solar-roof {
+  background-image: url("./solar-roof.avif");
+  @apply h-screen bg-cover bg-no-repeat bg-center;
+}
+
+.accessories {
+  background-image: url("./accessories.jpg");
+  @apply h-screen bg-cover bg-no-repeat bg-center;
+}
